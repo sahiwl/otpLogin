@@ -19,7 +19,7 @@ export default function OTP(){
         </div>
         <div className="flex justify-center">
             <div className="font-semibold">made by<a href="https://github.com/sahiwl" className="text-sky-600 font-semibold" > {me} 🐱‍👤
-            more work</a> </div>
+            </a> </div>
             
         </div>
     </div>

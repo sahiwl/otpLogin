@@ -1,2 +1,2 @@
-## OTP login using Reactjs
-setting up a plain and simple phone authentication with OTP in **React** App
+## OTP auth using Reactjs (Frontend)
+setting up a frontend design of phone authentication with OTP using **React** 
