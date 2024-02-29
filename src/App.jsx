@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
-import {LoginPage} from "./components/LoginPage.tsx";
-import OTP from './components/OTP.tsx';
+import {LoginPage} from "./components/LoginPage.jsx";
+import OTP from './components/OTP.jsx';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
